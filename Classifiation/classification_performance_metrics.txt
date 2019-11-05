@@ -1,0 +1,25 @@
+1.https://www.youtube.com/watch?v=85dtiMz9tSo&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=9
+2.https://github.com/justmarkham/scikit-learn-videos/blob/master/09_classification_metrics.ipynb
+3.https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
+
+
+https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/
+
+
+
+https://towardsdatascience.com/common-classification-model-evaluation-metrics-2ba0a7a7436e
+
+
+https://www.svds.com/the-basics-of-classifier-evaluation-part-1/
+
+Cohen's Kappa
+
+https://stats.stackexchange.com/questions/82162/cohens-kappa-in-plain-english
+
+
+
+
+
+
+
