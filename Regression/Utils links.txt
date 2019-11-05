@@ -1,0 +1,3 @@
+https://www.researchgate.net/publication/300403700_Regression_Analysis
+http://mkhalusova.github.io/blog/2019/04/17/ml-model-evaluation-metrics-p3
+https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4
