@@ -5,6 +5,8 @@ There are many metrics to measure the performance of your model depending on the
 
 <img src="metrics.png"
 	title="Metrics" width="500" height="300" />
+	
+	
 (Source: https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
   
 ## Classification Metrics
