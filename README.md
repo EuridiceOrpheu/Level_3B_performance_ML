@@ -4,7 +4,7 @@ The metrics that you choose to evaluate your machine learning algorithms are ver
 There are many metrics to measure the performance of your model depending on the type of machine learning algorithm.
 
 <img src="metrics.png"
-	title="Metrics" width="300" height="300" />
+	title="Metrics" width="500" height="300" />
   
 ## Classification Metrics
 * Classification Accuracy.
